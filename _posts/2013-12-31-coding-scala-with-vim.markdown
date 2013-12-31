@@ -4,6 +4,10 @@ title: Coding Scala with Vim
 ---
 There are [Vim] [1] users and there are [Scala] [2] coders and, occassionally those two wonderful things happen to get mixed up into the same person.  I'm one of those people, and have finally gotten around to sharing how I code [Scala] [2] with [Vim] [1] in a screencast.
 
+Watch it on [Vimeo] [23] using [this link](https://vimeo.com/83065681), or just watch it below.
+
+<center><iframe src="//player.vimeo.com/video/83065681" width="700" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/83065681">Coding Scala in Vim</a> from <a href="http://vimeo.com/user1690209">Derek Wyatt</a> on <a href="https://vimeo.com">Vimeo</a>.</p></center>
+
 The Workflow
 ------------
 
@@ -83,3 +87,4 @@ That's it.  If it works for you, go for it.  If it doesn't... well, you read thi
   [20]: http://www.ubuntu.com "Ubuntu"
   [21]: http://notion.sourceforge.net "Notion"
   [22]: https://github.com/derekwyatt/notion-config "my notion configuration"
+  [23]: http://vimeo.com "Vimeo"
