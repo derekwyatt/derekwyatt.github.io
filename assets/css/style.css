@@ -49,7 +49,7 @@ a:hover {
 
 p { margin-bottom: 15px; }
 ul, ol { padding: 0 0 18px 30px; }
-ol li, ul li { margin-top: 10px; margin-bottom: 10px; }
+ol li, ul li { margin-top: 7px; margin-bottom: 7px; }
 em, i { font-style: italic; }
 strong, b { font-weight: bold; }
 small { font-size: 0.85em; }
@@ -142,9 +142,9 @@ h3 {
 #sidebar {
 	position: absolute;
 	text-align: right;
-	width: 160px;
+	width: 180px;
 	top: 0;
-	left: -240px;
+	left: -210px;
 }
 
 #sidebar li {
@@ -155,7 +155,7 @@ h3 {
 #sidebar a {
 	border: none;
 	font-family: "Helvetica Neue", "Helvetica", serif;
-	font-size: 1.2em;
+	font-size: 1.1em;
 	padding: 2px 4px;
 }
 
@@ -202,7 +202,9 @@ img.center {
 	text-align: center;
 	margin: 0 auto 1em auto;
 }
-
+.highlight {
+  margin-bottom: 10px;
+}
 
 
 /*** Pagination ***/

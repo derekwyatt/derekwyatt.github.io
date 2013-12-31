@@ -7,7 +7,7 @@ There are [Vim] [1] users and there are [Scala] [2] coders and, occassionally th
 The Workflow
 ------------
 
-There are two GUI elements involved: [Vim] [1] and a terminal window.
+This is exceedingly simple; it involves only two GUI elements: [Vim] [1] and a terminal window.
 
 <a href="/images/vim-and-terminal.png" target="_blank">
 <img src="/images/vim-and-terminal.png" alt="MacVim and iTerm side-by-side" width="780"/>

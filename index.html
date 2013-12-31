@@ -3,10 +3,20 @@ layout: default
 ---
 
 <div id="home">
+  <h1>Vim Tutorials</h1>
+  <p>Here you'll find links to all of the <a href="http://www.vim.org/">Vim</a>
+  tutorial screencasts that I've put together over the years.</p>
+  <ul>
+    <li><a href="/vim/tutorials/novice">Novice Tutorials</a></li>
+    <li><a href="/vim/tutorials/intermediate">Intermediate Tutorials</a></li>
+    <li><a href="/vim/tutorials/advanced">Advanced Tutorials</a></li>
+    <li><a href="/vim/tutorials/plugin">Vim Plugin Showcase</a></li>
+  </ul>
   <h1>Blog Posts</h1>
   <ul class="posts">
-    {% for post in site.posts %}
+    {% for post in site.posts limit:20 %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
+    <li>... Check the <a href="/archive">archive for past posts</a>.</li>
   </ul>
 </div>

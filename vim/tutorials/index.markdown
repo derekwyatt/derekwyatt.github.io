@@ -10,7 +10,7 @@ I've been doing some video tutorials that are hosted on [vimeo] [1] for a little
 - [Vim Plugin Showcase] [5]
 
   [1]: http://vimeo.com/user1690209/videos "vimeo"
-  [2]: /vim/vim-tutorial-videos/vim-novice-tutorial-videos/ "Vim Novice Video Tutorials"
-  [3]: /vim/vim-tutorial-videos/vim-intermediate-tutorial-videos ">Vim Intermediate Video Tutorials"
-  [4]: /vim/vim-tutorial-videos/vim-advanced-tutorial-videos ">Vim Advanced Video Tutorials"
-  [5]: /vim/vim-tutorial-videos/vim-plugin-showcase ">Vim Plugin Showcase"
+  [2]: /vim/tutorials/novice/ "Vim Novice Video Tutorials"
+  [3]: /vim/tutorials/intermediate ">Vim Intermediate Video Tutorials"
+  [4]: /vim/tutorials/advanced ">Vim Advanced Video Tutorials"
+  [5]: /vim/tutorials/plugin ">Vim Plugin Showcase"
