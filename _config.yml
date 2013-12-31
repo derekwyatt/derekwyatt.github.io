@@ -1,3 +1,5 @@
+name: Round Robin
+url: http://rr.derekwyatt.org
 safe: true
 lsi: false
 pygments: true

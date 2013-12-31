@@ -7,16 +7,18 @@ There are [Vim] [1] users and there are [Scala] [2] coders and, occassionally th
 The Workflow
 ------------
 
-There are two GUI elements involved: [Vim] [1] and a Terminal window.
+There are two GUI elements involved: [Vim] [1] and a terminal window.
 
-![MacVim and iTerm side-by-side] [14]
+<a href="/images/vim-and-terminal.png" target="_blank">
+<img src="/images/vim-and-terminal.png" alt="MacVim and iTerm side-by-side" width="780"/>
+</a>
 
 [SBT] [10] does its thing in the terminal all day long (running `~test`) while I get to code in [Vim] [1].  Actually... that's about it :)
 
 What I Give Up
 --------------
 
-The [Scala IDE] [15] gives you all the good stuff that you can get from [Eclipse] [16], including code completion, build integration, debugging, refactoring and so forth.  I don't have any of that stuff in my workflow -- and I don't care :)  If you really care, then my workflow isn't for you.
+The [Scala IDE] [14] gives you all the good stuff that you can get from [Eclipse] [15], including code completion, build integration, debugging, refactoring and so forth.  I don't have any of that stuff in my workflow -- and I don't care :)  If you really care, then my workflow isn't for you.
 
 Simplicity
 ----------
@@ -60,6 +62,5 @@ The test file for `Source` is called `SourceSpec` and is located under `src/test
   [11]: https://github.com/dscleaver/sbt-quickfix "SBT Quickfix"
   [12]: http://www.zsh.org/ "ZSH"
   [13]: https://github.com/derekwyatt/dotfiles/tree/master/zsh_custom/plugins/vim-interaction "ZSH Vim Plugin"
-  [14]: /images/vim-and-terminal.png "Vim and iTerm side-by-side"
-  [15]: http://scala-ide.org/ "Scala IDE"
-  [16]: http://www.eclipse.org/ "Eclipse"
+  [14]: http://scala-ide.org/ "Scala IDE"
+  [15]: http://www.eclipse.org/ "Eclipse"
