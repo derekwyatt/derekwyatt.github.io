@@ -156,14 +156,13 @@ h3 {
 	text-align: right;
 	width: 180px;
 	top: 0;
-	left: -210px;
-  padding-right: 15px;
-  border-right: solid #666666 1px;
+	left: -200px;
 }
 
 #sidebar li {
 	list-style: none;
 	margin: 2px 0;
+  font-style: italic;
 }
 
 #sidebar a {

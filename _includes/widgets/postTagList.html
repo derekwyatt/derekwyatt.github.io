@@ -10,10 +10,10 @@
 {% endcomment %}
 {% if page.tags.size > 0 %}
   <div class="inlinetags">
-    Tagged with:
+    tags:
     {% for tag in page.tags %}
       <a href="/tags.html#{{tag | cgi_encode}}">{{ tag }}</a>
-      {% unless forloop.last %}|{% endunless %}
+      {% unless forloop.last %}<span class="tag-separator">|</span>{% endunless %}
     {% endfor %}
   </div>	
 {% endif %}		

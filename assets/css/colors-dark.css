@@ -51,6 +51,12 @@ code {
 #sidebar a:hover {
 	color: #2aa198;
 	background-color: #073642;
+  text-decoration: underline;
+}
+
+#page {
+  border-left: solid #444444 1px;
+  padding-left: 20px;
 }
 
 #footer {
@@ -58,9 +64,11 @@ code {
 }
 
 .inlinetags {
-  color: #abab96;
-  border-left: solid #abab96 1px;
-  border-bottom: solid #abab96 1px;
+  border-left: solid #444444 1px;
+  border-bottom: solid #444444 1px;
+}
+.inlinetags .tag-separator {
+  color: #444444;
 }
 
 .tags-and-numbers {
