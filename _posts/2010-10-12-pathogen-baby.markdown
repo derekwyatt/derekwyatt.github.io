@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Pathogen, baby!
+tags:
+- vim
 ---
 So there's been some scuttlebutt on the Twitters recently regarding this ["Pathogen" script for Vim](http://www.vim.org/scripts/script.php?script_id=2332) and I decided to have a look. In a word? "Sweet". In a few words? [Tim Pope](http://www.vim.org/account/profile.php?user_id=9012) is the absolute man.
 

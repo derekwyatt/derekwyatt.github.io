@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Functional "map" in C++
+tags:
+- functional
+- c++
 ---
 **Note:** This is C++0x stuff and it's really just an investigation into some of the more obvious parts of it, including [the `auto` keyword](http://en.wikipedia.org/wiki/C%2B%2B0x#Type_inference) and [lambda functions](http://en.wikipedia.org/wiki/C%2B%2B0x#Lambda_functions_and_expressions) as well as working with [higher kinded types](http://en.wikipedia.org/wiki/Type_class) (signified in C++ as [template-template parameters](http://www.progdoc.de/papers/ttp/psi-ttp/psi-ttp.html)).
 

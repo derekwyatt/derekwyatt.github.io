@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Changing settings / options based on filetype in Vim
+tags:
+- vim
 ---
 If you want to change settings / options based on the [filetype](http://vimdoc.sourceforge.net/htmldoc/filetype.html#filetype.txt) there are a couple of ways you can do it.
 

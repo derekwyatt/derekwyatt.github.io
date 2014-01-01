@@ -1,6 +1,8 @@
 ---
 layout: post
 title: The Most Useful Code I've Written in Weeks
+tags:
+- shell
 ---
 I'd like to say that I write *useful* code all the time, but let's face facts... useful code doesn't come around all that often. In my new job I'm using [Maven](http://maven.apache.org) instead of [SBT](http://www.scala-sbt.org) and I miss the cool [tilde](http://www.scala-sbt.org/#compilation) modifier in a big way. And now that I'm using the [Artima](http://www.artima.com) book building strategy - which is based on [Ant](http://ant.apache.org) - I miss it even more.
 

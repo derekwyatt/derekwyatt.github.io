@@ -1,6 +1,8 @@
 ---
 layout: post
 title: How to use the Vim Help System is Online
+tags:
+- vim
 ---
 [How to use the Help System](/vim/vim-tutorial-videos/vim-novice-tutorial-videos#Help) is now online, and I think this may finish off the ["Novice"](/vim/vim-tutorial-videos/vim-novice-tutorial-videos/) set of videos. We've done a lot of good work moving forward with "How to use Vim", and this video will give you some assistance with helping yourself using Vim's [superb help system](http://vimdoc.sourceforge.net/).
 

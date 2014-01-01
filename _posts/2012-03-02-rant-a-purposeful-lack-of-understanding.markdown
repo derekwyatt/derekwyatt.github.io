@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Rant - A Purposeful Lack of Understanding
+tags:
+- blog
 ---
 I recently responded to someone's question on [StackOverflow](http://stackoverflow.com) and now I have to rant about something.
 

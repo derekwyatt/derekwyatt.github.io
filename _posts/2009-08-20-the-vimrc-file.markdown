@@ -1,6 +1,8 @@
 ---
 layout: post
 title: The vimrc File
+tags:
+- vim
 ---
 The Heart of Your Vim Setup
 ---------------------------

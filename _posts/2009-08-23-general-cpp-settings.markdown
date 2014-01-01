@@ -1,6 +1,9 @@
 ---
 layout: post
 title: General C++ Settings
+tags:
+- c++
+- vim
 ---
 **UPDATE**: Go to [http://github.com/derekwyatt/vim-config](http://github.com/derekwyatt/vim-config) to get the current version of this stuff. These settings go into the `$VIM/after/ftplugin/cpp.vim` file. You can find the file linked [here](/wp-content/uploads/2009/08/cpp.vim). You'll find that it's heavily commented so you shouldn't have too much trouble figuring out what's there and why. Of course you can always use the `:help` functionality to discover what the Vim-specific settings and commands do. It contains the following features:
 

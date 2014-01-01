@@ -1,10 +1,13 @@
 ---
 layout: post
 title: Using Scala Implicits to Implement a Messaging Protocol
+tags:
+- scala
+- akka
 ---
 (**NOTE**: I migrated this post, which I originally wrote, from my old employer's web site because the format of it kept breaking every time they did an update to the site. [Here's the original](http://blog.primal.com/using-scala-implicits-to-implement-a-messaging-protocol/))
 
-A while back, when I worked at [Primal][1] I needed to create tons of different families of [Akka][2] [Actors][3], each of which implemented a structure defined in a JSON format.  With all of the different families that would be running around, I wanted to make sure that I could determine (via logs) the different threads of conversation that were going on.
+A while back, when I worked at [Primal][1] I needed to create tons of different families of [Akka][2][Actors][3], each of which implemented a structure defined in a JSON format.  With all of the different families that would be running around, I wanted to make sure that I could determine (via logs) the different threads of conversation that were going on.
 
 (For the impatient, you can find all of this working code in [Primal][1]'s [Github repository][4].)
 

@@ -104,7 +104,15 @@ h3 {
 .img-middle { vertical-align: middle; }
 .nopadding { padding: 0; }
 .nounderline { text-decoration: underline; }
-
+.inlinetags {
+  font-size: 0.8em;
+  margin-bottom: 1em;
+  padding-left: 0.5em;
+}
+.tagnumber {
+  font-size: 0.8em;
+  line-height: 1.2em;
+}
 
 
 /*** Structure ***/

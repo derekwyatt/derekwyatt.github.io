@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Started some work on Scala
+tags:
+- scala
 ---
 So, a little over a month ago, I changed departments where I work - I used to work in the Enterprise Software group and have moved to the System Architecture / Research group. There are some great things that go with this:
 

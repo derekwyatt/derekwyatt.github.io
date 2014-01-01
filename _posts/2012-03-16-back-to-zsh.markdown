@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Back to ZSH
+tags:
+- shell
+- unix
 ---
 A little while ago, [I gave up on Zsh](http://www.derekwyatt.org/2012/02/14/i-gave-up-on-zsh/). There were a number of people that showed me how I could have fixed up [Zsh](http://www.zsh.org/) so it would suck less, but I just didn't have time. Well, I found myself with some time yesterday that couldn't be spent doing much useful, so I made the switch.
 

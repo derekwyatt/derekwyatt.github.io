@@ -53,7 +53,20 @@ code {
 	border-color: #073642;
 }
 
+.inlinetags {
+  color: #abab96;
+  border-left: solid #abab96 1px;
+  border-bottom: solid #abab96 1px;
+}
 
+.tagnumber .numtags {
+  color: #cb4b16;
+}
+
+.tagnumber .numtagsep {
+  color: black;
+  font-weight: bold;
+}
 
 /*** Pygments ***/
 .highlight{

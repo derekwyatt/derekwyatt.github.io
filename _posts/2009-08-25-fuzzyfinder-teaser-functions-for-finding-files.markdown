@@ -1,6 +1,8 @@
 ---
 layout: post
 title: FuzzyFinder Teaser Functions (for finding Files)
+tags:
+- vim
 ---
 I've been playing with [FuzzyFinder](http://www.vim.org/scripts/script.php?script_id=1984) recently. I've had it on my list of "things to understand better" for a while now, but I've also had a couple of people asking smart questions like this:
 

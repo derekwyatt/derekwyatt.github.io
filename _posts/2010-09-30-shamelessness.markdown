@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Shamelessness
+tags:
+- blog
 ---
 Alright... I've had a lot of traffic lately and a lot of people emailing me (something's occurred on the inter-web recently that's picked up the interest in these videos beyond the usual 1k views per week... I don't know what it was). This has sparked my interest in making more videos so that's what I'm going to try and do.
 

@@ -1,7 +1,7 @@
 name: Flarfnoogins
 author: Derek Wyatt
 url: http://derekwyatt.github.io
-safe: true
+safe: false
 lsi: false
 pygments: true
 markdown: redcarpet

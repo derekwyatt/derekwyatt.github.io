@@ -1,6 +1,9 @@
 ---
 layout: post
 title: It's been a while...
+tags:
+- vim
+- blog
 ---
 I've had a number of people ask me when my next [Vim Video](/vim/vim-tutorial-videos/) is going to go online... I know it's been a while since I put one up, and unfortunately it's going to be a while longer.
 

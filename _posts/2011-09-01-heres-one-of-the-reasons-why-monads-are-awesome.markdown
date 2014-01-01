@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Here's (one of the reasons) why Scala is awesome
+tags:
+- scala
+- functional
 ---
 Ok, I'm no [Monad](http://www.codecommit.com/blog/ruby/monads-are-not-metaphors "Daniel Spiewak sent me to this page... I read pretty much anything he says") expert by any stretch of the imagination... seriously. But, I did something today that has me so jazzed about Monads, partial functions and [Scala](http://www.scala-lang.org) in general, that I just gotta share.
 

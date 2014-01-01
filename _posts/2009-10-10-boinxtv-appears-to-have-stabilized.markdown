@@ -1,6 +1,8 @@
 ---
 layout: post
 title: BoinxTV appears to have stabilized!
+tags:
+- blog
 ---
 Well, I just updated to the latest [BoinxTV](http://www.boinxtv.com) (a beta release, in fact) and some problems that I was having earlier appear to have disappeared! Things are much more stable now - in fact, I don't see any flaws anymore at all and I have just completed my first video with it, which should be uploaded soon.
 

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Working with Many Files (Screencast 2)
+tags:
+- vim
 ---
 The second video about [Working with Multiple Files](http://vimeo.com/6307101) is now online. Vimeo is still converting [Screencast 1](http://vimeo.com/6306508), even though I uploaded that one first - it's been a really lucky day for me today :). Hopefully that one will be done soon. This video covers:
 

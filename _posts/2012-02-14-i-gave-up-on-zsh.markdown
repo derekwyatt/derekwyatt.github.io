@@ -1,6 +1,9 @@
 ---
 layout: post
 title: I gave up on Zsh
+tags:
+- shell
+- unix
 ---
 Ok, so everyone and their grandmother appears to be using [Zsh](http://www.zsh.org/) and I was starting to wonder what was wrong with me. Why was I still using [Bash](http://www.gnu.org/software/bash/)? So I grabbed [Oh-My-Zsh](https://github.com/robbyrussell/oh-my-zsh) (which was pretty cool, BTW) and dove in... but here's the problem - I didn't have time to dive in.
 

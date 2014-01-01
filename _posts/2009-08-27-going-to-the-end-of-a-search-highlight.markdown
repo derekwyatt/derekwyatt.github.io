@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Going to the End of a Search Highlight
+tags:
+- vim
 ---
 I saw this on Twitter:
 

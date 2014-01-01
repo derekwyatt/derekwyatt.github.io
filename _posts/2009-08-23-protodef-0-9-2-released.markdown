@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Protodef 0.9.2 released
+tags:
+- plugins
+- vim
 ---
 I made an enhancement to [Protodef](http://www.vim.org/scripts/script.php?script_id=2624) to allow for the ability to eliminate the namespace when pulling in the prototypes. So now you can make them look like this:
 

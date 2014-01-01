@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Haskell 'sequence' Over Functions - Explained
+tags:
+- haskell
+- functional
 ---
 I've recently been devouring [Learn You a Haskell for Great Good](http://learnyouahaskell.com). I've been meaning to do it for ages, but a [recent post](http://debasishg.blogspot.com/2012/01/2011-year-that-was.html) by [Debasish Ghosh](http://debasishg.blogspot.com) pushed me to go through it cover to cover... I'm almost there :) I was wrestling over the complexities of applying the `sequence` function to a list of functions. More succinctly, I was confused on the mechanics of how this worked:
 

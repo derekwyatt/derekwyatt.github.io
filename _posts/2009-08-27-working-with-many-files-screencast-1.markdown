@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Working with Many Files (Screencast 1)
+tags:
+- vim
 ---
 We're going to start covering a very important topic in the next series: [Working with Many Files (Screencast 1)](http://vimeo.com/6306508). I plan on covering a full range of complexity on this topic but the first video is going to cover the dead basics:
 

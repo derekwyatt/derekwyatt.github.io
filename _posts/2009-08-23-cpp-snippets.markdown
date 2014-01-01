@@ -1,6 +1,9 @@
 ---
 layout: post
 title: C++ Snippets
+tags:
+- vim
+- c++
 ---
 **UPDATE**: Go to [http://github.com/derekwyatt/vim-config](http://github.com/derekwyatt/vim-config) to get the current version of this stuff.
 

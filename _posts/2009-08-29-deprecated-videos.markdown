@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Deprecated Videos
+tags:
+- vim
 ---
 I re-recorded some videos because the originals weren't so great :) Rather than delete them, I've just moved them into the deprecated section.
 

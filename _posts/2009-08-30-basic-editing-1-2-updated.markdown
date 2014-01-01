@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Basic Editing 1 & 2 Updated
+tags:
+- vim
 ---
 I've re-recorded Basic Editing 1 & 2 for Vim to align better with how I've been doing things lately and to make them more clear. You can check them out at:
 

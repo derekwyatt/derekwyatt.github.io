@@ -1,6 +1,9 @@
 ---
 layout: post
 title: No <code>namespace</code> indent for C++ with Vim
+tags:
+- c++
+- vim
 ---
 (**NOTE:** There's a more up to date version of this in the [General C++ Settings](/vim/working-with-vim-and-cpp/general-cpp-settings/) section.)
 

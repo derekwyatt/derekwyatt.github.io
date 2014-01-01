@@ -1,6 +1,8 @@
 ---
 layout: post
 title: The Absolute Bare Minimum
+tags:
+- vim
 ---
 There is a bare minimum that you should have in your `vimrc` file. And let's face it, we're not interested being compatible with [Vi](http://en.wikipedia.org/wiki/Vi) here. We want the full power of [Vim](http://www.vim.org/) at our fingertips here, so let's go that way, shall we?
 

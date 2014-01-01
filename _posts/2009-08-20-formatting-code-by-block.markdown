@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Formatting Code by Block
+tags:
+- c++
+- vim
 ---
 Ever been inside a code block and want to reformat (via ==) a number of lines but not the whole file and not line by line?
 

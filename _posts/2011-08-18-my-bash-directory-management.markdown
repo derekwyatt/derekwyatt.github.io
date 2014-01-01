@@ -1,6 +1,9 @@
 ---
 layout: post
 title: My BASH directory management
+tags:
+- shell
+- unix
 ---
 I saw a post on [Supuser.com](http://superuser.com/questions/324512/cd-option-to-go-back-rather-than-up) that asked about how to go "back" to a directory rather than "up". The right answer was "`cd -`", of course, but I've been using a home-grown tool to do this for years and it works really well.
 

@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Understanding Scala Streams through Fibonacci
+tags:
+- functional
+- scala
 ---
 I took a look at [Scala](http://scala-lang.org) [Streams](http://blog.danielwellman.com/2008/03/streams-in-scal.html) tonight (or was that last night? When am I posting this?) and thought I'd share what I learned from [Literate Programs](http://en.literateprograms.org/Fibonacci_numbers_%28Scala%29) and the Scala source code.
 

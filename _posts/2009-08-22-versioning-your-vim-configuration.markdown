@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Versioning your Vim configuration
+tags:
+- vim
 ---
 I use [Vim](http://www.vim.org) mostly at work on Windows (don't even get me started on that lovely O/S), working on two different machines - my desktop and my laptop - neither of which are backed up. That presents a couple of problems:
 

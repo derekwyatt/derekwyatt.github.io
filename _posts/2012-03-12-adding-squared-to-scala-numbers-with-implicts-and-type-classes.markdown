@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Adding `squared` to Scala Numbers with Implicts and Type Classes
+tags:
+- scala
 ---
 I recently enjoyed a couple of days with [Heiko Seeberger](https://twitter.com/#!/hseeberger) and [Josh Suereth](https://twitter.com/#!/jsuereth) as they dragged me through some [Advanced Scala Training](http://typesafe.com/products/training) and it was quite awesome. As an exercise, to test out my new found skills I [pimped](http://www.artima.com/weblogs/viewpost.jsp?thread=179766) a new method onto "numbers" in Scala and I thought it might be instructive to share.
 

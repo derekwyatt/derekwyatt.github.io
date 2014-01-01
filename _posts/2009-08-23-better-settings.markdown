@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "\"Better\" Settings"
+tags:
+- vim
 ---
 It's hard to come up with category names for different groups of options, maps, functions, etc... in the `vimrc` file. There are a number of options in Vim whose default setting doesn't quite work for me so they gotta change...
 

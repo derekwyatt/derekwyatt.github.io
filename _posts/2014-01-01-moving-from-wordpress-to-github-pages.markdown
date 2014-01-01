@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Moving from WordPress to Github Pages
+tags:
+- blog
 ---
 When I started writing a blog in 2008 (or thereabouts), I hooked up with [Dreamhost][1] and started using [WordPress][2] because it was the best thing going.  Integrating code snippets was a serious pain, the interface was a drag, the spam protection was decent but not nearly perfect, and the whole damn thing was just _slow_.  I had been meaning to switch to [Github Pages][3] for quite a while and finally had the chance over the holidays.  Here's how it was done.
 

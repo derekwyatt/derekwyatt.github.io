@@ -1,6 +1,8 @@
 ---
 layout: post
 title: The EigenHarp - Holy Friggin' Hell!
+tags:
+- blog
 ---
 I just happened to see [this story at engadget](http://www.engadget.com/2009/09/11/video-mysterious-eigenharp-offers-blinkenlight-sitar-looks-chi/) and dug a little deeper to find the [EigenHarp at EigenLabs](http://www.eigenlabs.com/). This is possibly the coolest friggin' [MIDI Controller](http://en.wikipedia.org/wiki/Midi_controller) (almost) on the market today. It's ridiculously expensive - *way* out of my price range at close to \$7000 (it is just a controller after all - you still gotta have a computer and some soft synths, I believe) but that doesn't diminish it's complete and utter coolness!
 

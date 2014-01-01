@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Working with Many Files (Screencast 3) is up
+tags:
+- vim
 ---
 I've managed to finally get a video up on working with Vim windows. You can check it out at:
 

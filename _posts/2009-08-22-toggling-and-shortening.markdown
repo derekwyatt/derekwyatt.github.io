@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Toggling and Shortening
+tags:
+- vim
 ---
 There are a number of [options / settings](http://vimdoc.sourceforge.net/htmldoc/options.html) in Vim, of course, and sometimes they're not so easy to set. There are also a lot of things we tend to do over and over that take more than a couple of characters to write and you want to do them faster. This is where mappings come in:
 

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Silently Redirecting to the Vim Clipboard
+tags:
+- vim
 ---
 In an upcoming video tutorial, I'll be doing a bit of work with the [:redir](http://vimdoc.sourceforge.net/htmldoc/various.html#:redir) command. This is a great Vim facility but it can be helped with a function wrapper. I'm including that wrapper here:
 

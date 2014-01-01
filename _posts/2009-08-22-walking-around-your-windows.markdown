@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Walking Around Your Windows
+tags:
+- vim
 ---
 Vim can do an [insane number of things with windows in Vim](http://vimdoc.sourceforge.net/htmldoc/windows.html). I take a minimalist approach to windows in Vim and try to make it as simple for myself as possible. There are a number of factors that drive my configuration:
 

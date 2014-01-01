@@ -1,6 +1,9 @@
 ---
 layout: post
 title: 'My Book: Akka Concurrency has been released!'
+tags:
+- scala
+- akka
 ---
 <img src="/images/akka-concurrency.png" class="left"/>
 I've been working on a book since March, 2012 called [*Akka Concurrency*](http://www.artima.com/shop/akka_concurrency/) and on Monday, Oct 15th 2012, it went live at [Artima](http://www.artima.com/forums/flat.jsp?forum=270&thread=346485). I'm really happy to see it make this milestone - it's been a long time coming!

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: BASIC Movement (Screencast 3) is online
+tags:
+- vim
 ---
 I've completed the video series on the Vim BASIC Movement Tutorials.
 
