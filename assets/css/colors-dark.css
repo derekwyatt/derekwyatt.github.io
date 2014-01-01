@@ -41,6 +41,10 @@ blockquote {
 }
 
 code {
+	color: #2aa198;
+}
+
+#header .description {
 	color: #abab96;
 }
 

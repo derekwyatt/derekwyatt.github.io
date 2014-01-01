@@ -134,6 +134,9 @@ h3 {
 #header h1 a {
 	border: none;
 }
+#header .description {
+  font-style: italic;
+}
 
 #footer {
 	width: 800px;
@@ -154,6 +157,8 @@ h3 {
 	width: 180px;
 	top: 0;
 	left: -210px;
+  padding-right: 15px;
+  border-right: solid #666666 1px;
 }
 
 #sidebar li {
