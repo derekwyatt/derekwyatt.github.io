@@ -31,15 +31,21 @@
           <li><a href="/feed.xml">RSS Feed</a></li>
         </ul>
         {% if site.tags.size > 0 %}
-          <div class="tagnumber">
+          <div class="tags-and-numbers">
+            <table class="tags-and-numbers-table">
+              {% for tag in site.tags %}
+                {% assign tag_name = tag | first %}
+                {% assign tag_posts = site.tags[tag_name] %}
+                <tr>
+                  <td class="tag-name">
+                    <a href="/tags.html#{{tag | first | cgi_encode}}">{{ tag_name }}</a>
+                  </td>
+                  <td class="tag-count">{{ tag_posts.size }}</td>
+                </tr>
+              {% endfor %}
+              </tr>
+            </table>
             <ul>
-            {% for tag in site.tags %}
-              {% assign tag_name = tag | first %}
-              {% assign tag_posts = site.tags[tag_name] %}
-              <li><a href="/tags.html#{{tag | first | cgi_encode}}">
-                {{ tag_name }} <span class=numtagsep>:</span> <span class=numtags>{{ tag_posts.size }}</span>
-              </a></li>
-            {% endfor %}
             </ul>
           </div>
         {% endif %}
