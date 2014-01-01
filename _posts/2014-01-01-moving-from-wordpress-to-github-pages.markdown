@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Moving from Wordpress to Github Pages
+title: Moving from WordPress to Github Pages
 ---
-When I started writing a blog in 2008 (or thereabouts), I hooked up with [Dreamhost][1] and started using [Wordpress][2] because it was the best thing going.  Integrating code snippets was a serious pain, the interface was a drag, the spam protection was decent but not nearly perfect, and the whole damn thing was just _slow_.  I had been meaning to switch to [Github Pages][3] for quite a while and finally had the chance over the holidays.  Here's how it was done.
+When I started writing a blog in 2008 (or thereabouts), I hooked up with [Dreamhost][1] and started using [WordPress][2] because it was the best thing going.  Integrating code snippets was a serious pain, the interface was a drag, the spam protection was decent but not nearly perfect, and the whole damn thing was just _slow_.  I had been meaning to switch to [Github Pages][3] for quite a while and finally had the chance over the holidays.  Here's how it was done.
 
 I do all of my blog work on a Mac, so these instructions are somewhat specific to Macs, but I don't think it would be much different on other platforms as there's not all that much that's really Macish about this.
 
-Getting the Data out of Wordpress
+Getting the Data out of WordPress
 ---------------------------------
 
 [Dreamhost][1] provides a shell account via [SSH][4] so it was pretty comfortable to be able to tar up my website and dump the database:
@@ -24,19 +24,19 @@ home> scp derekwyatt.org:~/website.tgz .
 home> scp derekwyatt.org:~/db.dump.gz .
 ```
 
-You also need to export the [Wordpress][2] data using [Wordpress][2] itself, which will generate an XML file for you.  Unfortunately, I don't have a screenshot of this, since it's now offline for me.  Fortunately, there's help all over the place, and [this page should make it pretty clear][14] what needs doing.  You'll end up with an XML file at the end of the day.
+You also need to export the [WordPress][2] data using [WordPress][2] itself, which will generate an XML file for you.  Unfortunately, I don't have a screenshot of this, since it's now offline for me.  Fortunately, there's help all over the place, and [this page should make it pretty clear][14] what needs doing.  You'll end up with an XML file at the end of the day.
 
 Installing Jekyll
 -----------------
 
-[Jekyll][5] is a blog-aware static website generator.  This provides me a much better workflow than I had with [Wordpress][2] since everything can be done from the command line and [Vim][7] with the help of [Git][8].
+[Jekyll][5] is a blog-aware static website generator.  This provides me a much better workflow than I had with [WordPress][2] since everything can be done from the command line and [Vim][7] with the help of [Git][8].
 
 As for installation, there's nothing really special here.  I just followed the instructions that were [provided by pages][6] and it was all pretty easy.  The only thing I probably didn't need was [Bundler][9]; I'm sure it's helpful when things become more complex but this was so simple, it wasn't a big deal.  I didn use it to install [Jekyll][5] on my second Mac and I had no issue.
 
-Migrating the Wordpress Data
+Migrating the WordPress Data
 ----------------------------
 
-[Jekyll][5] has a nifty [Ruby][10] gem [useful for importing data][11] from other blog applications, [Wordpress][2] being one of them.  But...
+[Jekyll][5] has a nifty [Ruby][10] gem [useful for importing data][11] from other blog applications, [WordPress][2] being one of them.  But...
 
 Unfortunately, the importer expects to be able to talk to your [MySQL][12] database server in order to export the blog entries.  The quickest way for me to get this done was to install the [MySQL Community Server][13], load the data into it and then let the importer do it's thing.
 
@@ -47,7 +47,7 @@ home> jekyll import --source {WP XML File} --dbname {DB name} --user root \
                     --prefix {prefix}
 ```
 
-The `prefix` is a bit special.  Normally the tables in [Wordpress][2] look like `wp_posts` and so forth, but when WP is hosted, things tend to be a bit more dynamic.  In my case, the table names all looked like `wp_ds2o2_posts`, so the prefix was specified as `wp_ds2o2_`.
+The `prefix` is a bit special.  Normally the tables in [WordPress][2] look like `wp_posts` and so forth, but when WP is hosted, things tend to be a bit more dynamic.  In my case, the table names all looked like `wp_ds2o2_posts`, so the prefix was specified as `wp_ds2o2_`.
 
 The effect of the import was to have a bunch of files created in the `_posts` directory, all formatted as HTML, with [Jekyll][5] header data properly added.
 
@@ -173,7 +173,7 @@ Then it's just edit / save, edit / save until you're done and then push it up to
 And I'm done.  See ya.
 
   [1]: http://dreamhost.com "Dreamhost"
-  [2]: http://wordpress.com "Wordpress"
+  [2]: http://wordpress.com "WordPress"
   [3]: http://pages.github.com "Github Pages"
   [4]: http://openssh.com/ "SSH"
   [5]: http://jekyllrb.com "Jekyll"
@@ -185,7 +185,7 @@ And I'm done.  See ya.
   [11]: http://import.jekyllrb.com/ "Jekyll Importer"
   [12]: http://mysql.com "MySQL"
   [13]: http://dev.mysql.com/downloads/mysql/ "MySQL Community Server"
-  [14]: http://codex.wordpress.org/Tools_Export_Screen "Wordpress export"
+  [14]: http://codex.wordpress.org/Tools_Export_Screen "WordPress export"
   [15]: http://daringfireball.net/projects/markdown/ "Markdown"
   [16]: http://yaml.org/ "YAML"
   [17]: http://www.zsh.org/ "ZSH"
