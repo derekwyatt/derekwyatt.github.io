@@ -4,6 +4,7 @@ title: Using Scala Implicits to Implement a Messaging Protocol
 tags:
 - scala
 - akka
+- implicits
 ---
 (**NOTE**: I migrated this post, which I originally wrote, from my old employer's web site because the format of it kept breaking every time they did an update to the site. [Here's the original](http://blog.primal.com/using-scala-implicits-to-implement-a-messaging-protocol/))
 

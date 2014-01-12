@@ -4,6 +4,8 @@ title: Scala Implicits - Not to be Feared
 tags:
 - scala
 - presentations
+- implicits
+- typeclasses
 ---
 Slides from a [Scala](http://scala-lang.org) presentation I gave a while back at my local [Scala](http://scala-lang.org) meetup.
 
