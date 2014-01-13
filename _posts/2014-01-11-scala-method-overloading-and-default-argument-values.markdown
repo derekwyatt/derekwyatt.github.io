@@ -19,7 +19,7 @@ There's some specific detail about how the [Scala][1] compiler implements defaul
 ... multiple overloaded alternatives of method set define default arguments.
 ```
 
-There's clearly a way around this problem; _don't overload_.  So, I turned to the [magent pattern][3] as popularized by the [Spray][2] library.  It's really just a specialized use for type classes that carries a cool name so it's easy to talk about and reference.  My use of the pattern, in this case, is even simpler because the return type of the method doesn't vary with the magnet instance.  At any rate, here's the deal:
+There's clearly a way around this problem; _don't overload_.  So, I turned to the [magnet pattern][3] as popularized by the [Spray][2] library.  It's really just a specialized use for type classes that carries a cool name so it's easy to talk about and reference.  My use of the pattern, in this case, is even simpler because the return type of the method doesn't vary with the magnet instance.  At any rate, here's the deal:
 
 ``` scala
 import akka.util.ByteString
