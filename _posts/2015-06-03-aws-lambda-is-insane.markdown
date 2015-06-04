@@ -17,6 +17,8 @@ All I want to do (_all_ I want to do... jeez... think about it, man, this is hea
 
 <img src="/images/Product_to_Slack.png"/>
 
+ugh... fighting with Jekyll at the moment... more to come :)
+
   [1]: http://slack.com "Slack"
   [2]: https://aws.amazon.com/cloudwatch/ "Cloudwatch"
   [3]: https://aws.amazon.com/lambda/ "Lambda"
