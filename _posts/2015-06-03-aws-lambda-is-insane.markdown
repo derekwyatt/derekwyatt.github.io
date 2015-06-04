@@ -15,6 +15,8 @@ The Goal
 
 All I want to do (_all_ I want to do... jeez... think about it, man, this is heavy) is plumb alerts that are being triggered in [Cloudwatch][2], that are being sent to [SNS][4], to our `#production` channel in [Slack][1].  So we've already got the metrics being uploaded to [Cloudwatch][1], are being alerted and sent to [SNS][4], and [SNS][4] can already send those to various email addresses, but unfortunately there's no automatic support from [SNS][4] to [Slack][1].  We need to add this last bit fo plumbing.
 
+<img src="/images/Product_to_Slack.png"/>
+
   [1]: http://slack.com "Slack"
   [2]: https://aws.amazon.com/cloudwatch/ "Cloudwatch"
   [3]: https://aws.amazon.com/lambda/ "Lambda"
