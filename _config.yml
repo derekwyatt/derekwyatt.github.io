@@ -4,6 +4,6 @@ description: Vim, Scala, and cody things
 url: http://derekwyatt.github.io
 safe: false
 lsi: false
-pygments: true
+highlighter: pygments
 markdown: redcarpet
 exclude: ['Gemfile', 'Gemfile.lock', 'bin/work', 'bin/fswatcher', 'db.dump.gz', 'derekwyatt.org.tgz']
