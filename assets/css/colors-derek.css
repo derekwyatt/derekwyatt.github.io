@@ -59,9 +59,13 @@ code {
   color: #c03611;
 }
 
+.highlight .language-text {
+  color: #ffffff;
+}
+
 /*** Pygments ***/
 .highlight{
-  /* border-color: #198a87; */
+  color: #ffffff;
   border-color: #c03611;
   border-width: 3px;
   border-style: solid;
