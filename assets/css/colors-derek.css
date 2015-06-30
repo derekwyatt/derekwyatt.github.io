@@ -74,6 +74,19 @@ img {
   border-radius: 5px 5px 5px 5px;
 }
 
+img.logo {
+	float: left;
+	margin: 0 1em 1em 0;
+  border-color: #001966;
+  border-width: 1px;
+  border-style: solid;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  border-radius: 0px;
+}
+
 code {
   color: #cc0033;
 }
