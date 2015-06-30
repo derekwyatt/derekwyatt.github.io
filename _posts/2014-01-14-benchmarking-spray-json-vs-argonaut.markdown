@@ -80,7 +80,7 @@ object Argonaut {
 
 I parsed the file 10 times for 1,000 iterations.  Here are the results:
 
-<img src="/images/spray-vs-argonaut.png"/>
+<img src="/images/spray-vs-argonaut.png" class="unadorned"/>
 
 So, the upshot is that, on average (ignoring the first run of each since they were just warming up):
 

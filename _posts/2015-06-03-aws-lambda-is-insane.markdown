@@ -21,20 +21,20 @@ All I want to do (_all_ I want to do... jeez... think about it, man, this is hea
 
 We've already got the metrics being uploaded to [Cloudwatch][1], are being alerted and sent to [SNS][4], and [SNS][4] can already send those to various email addresses, but unfortunately there's no automatic support from [SNS][4] to [Slack][1].  We need to add this last bit of plumbing.
 
-<img style="background: white;" width=300px src="/images/Product_to_Slack.png"/>
+<img width=300px src="/images/Product_to_Slack.png"/>
 
 The How
 -------
 
 We create a [Lambda][3] function called `sns2slack` (more on this in a minute) and then plumb that to SNS using the SNS subscription configuration.  It looks like this:
 
-<img style="background: white;" width=800px src="/images/SNS_Lambda_config.png"/>
+<img width=800px src="/images/SNS_Lambda_config.png"/>
 
 I'm only showing a couple of things that we've got subscribed to the function, but we could easily (and do) subscribe tons of different notifications to the same [Lambda][3] function.  The function itself can be as generalized, or as specifc as you'd like and can be capable of handling notifications from tons of different areas because the events are self-describing JSON objects.
 
 You configure the function from the [Lambda][3] configuration screen, and you can modify the subscriptions here as well.  However, you don't really interact with this much because the best way to interact with it (and with [AWS][9], in general) is through the [AWS CLI][5].
 
-<img style="background: white;" width=800px src="/images/Lambda_configuration.png"/>
+<img width=800px src="/images/Lambda_configuration.png"/>
 
 The main supported language for [Lambda][3] executables is _Javascript_ (_an opportunistic little language that, were it food, would be vomited up by even the most destitute dog on the streets of Calcutta_) which are hosted by [NodeJS][6]. But, let's face it, it's sure as hell a boat load better than nothing.
 

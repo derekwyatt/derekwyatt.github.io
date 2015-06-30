@@ -1,5 +1,5 @@
 html, body {
-	background-color: #ffffff;
+	background-color: #efefef;
 	color: #000000;
 }
 
@@ -44,7 +44,26 @@ blockquote {
 	border-color: #eee8d5;
 }
 
+img.unadorned {
+  border-width: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+}
+
+img.unadorned-left {
+	float: left;
+	margin: 0 1em 1em 0;
+  border-width: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+}
+
 img {
+	background-color: #ffffff;
   border-color: #001966;
   border-width: 2px;
   border-style: solid;
@@ -56,18 +75,18 @@ img {
 }
 
 code {
-  color: #c03611;
+  color: #cc0033;
 }
 
-.highlight .language-text {
+code[class^="language-"] {
   color: #ffffff;
 }
 
 /*** Pygments ***/
 .highlight{
   color: #ffffff;
-  border-color: #c03611;
-  border-width: 3px;
+  border-color: #cc0033;
+  border-width: 2px;
   border-style: solid;
   border-radius: 3px 3px 3px 3px;
   overflow: auto;

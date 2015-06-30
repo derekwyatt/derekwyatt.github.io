@@ -10,15 +10,15 @@ The setup is the same as yesterday, and you can view the code [in the same Githu
 
 For [spray-json][4]:
 
-<img src="/images/spray-json-parsing-times.png"/>
+<img src="/images/spray-json-parsing-times.png" class=unadorned />
 
 For [Argonaut][3]:
 
-<img src="/images/argonaut-parsing-times.png"/>
+<img src="/images/argonaut-parsing-times.png" class=unadorned />
 
 For [Play Json][9]:
 
-<img src="/images/play-json-parsing-times.png"/>
+<img src="/images/play-json-parsing-times.png" class=unadorned />
 
 The averages are (ignoring the first run of each):
 

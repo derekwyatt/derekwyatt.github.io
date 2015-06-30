@@ -18,7 +18,7 @@ The Workflow
 This is exceedingly simple; it involves only two GUI elements: [Vim][1] and a terminal window.
 
 <a href="/images/vim-and-terminal.png" target="_blank">
-<img src="/images/vim-and-terminal.png" alt="MacVim and iTerm side-by-side" width="780"/>
+<img src="/images/vim-and-terminal.png" alt="MacVim and iTerm side-by-side" width="780" class=unadorned />
 </a>
 
 [SBT][10] does its thing in the terminal all day long (running `~test`) while I get to code in [Vim][1].  Actually... that's about it.  While inside [Vim][1] I use various plugins to navigate between files, and then classic [Vim][1] techniques to manipulate windows and do all of the text twiddling magic that all [Vim][1] users are used to.

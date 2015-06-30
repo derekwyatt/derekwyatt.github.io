@@ -35,7 +35,7 @@ I'm going to use the _passive_ approach because I like it better today. The _act
 
 I just don't wanna do that stuff, so I'm going to solve it the _passive_ way and use Actors.  It's gonna look something like this:
 
-<img src="/images/Work_Canceller.png" width=500px style="background: white"/>
+<img src="/images/Work_Canceller.png" width=500px />
 
 The `Future[Result]` comes from the following method call, and is really the API that you're going to expose, forgetting all of the interesting complexity in that diagram.
 
