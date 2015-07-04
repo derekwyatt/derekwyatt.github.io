@@ -1,9 +1,17 @@
-name: Flarfnoogins
-author: Derek Wyatt
-description: Vim, Scala, and cody things
+title: Flarfnoogins
+author: "Derek Wyatt"
+header-img: img/orion-nebula-space-galaxy.png
+email: derek@derekwyatt.org
+description: "Vim, Scala, and cody things"
+baseurl: ""
 url: http://derekwyatt.github.io
-safe: false
-lsi: false
-highlighter: pygments
+twitter_username: derekwyatt
+github_username: derekwyatt
+linkedin_username: derekqwyatt
+
+# Build settings
 markdown: redcarpet
-exclude: ['Gemfile', 'Gemfile.lock', 'bin/work', 'bin/fswatcher', 'db.dump.gz', 'derekwyatt.org.tgz']
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["Gemfile", "Gemfile.lock", "less", "README.md"]

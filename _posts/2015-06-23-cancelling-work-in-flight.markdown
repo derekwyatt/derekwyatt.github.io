@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Cancelling work in flight
+header-img: img/compact-discs.png
 tags:
 - scala
 - akka

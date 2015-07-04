@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vim Novice Tutorial Videos
+title: Vim Novice Videos
 ---
 In these videos we cover the basics. If you're just getting started or think you may be missing some of the basic ideas behind Vim, these videos are for you. They're hosted at [Vimeo](http://vimeo.com/user1690209) but you can also watch them here if you wish. The quality may be a bit better over at [Vimeo](http://vimeo.com/user1690209), though.
 
@@ -25,11 +25,11 @@ Welcome to Vim
 
 **NOTE:** You should really see it straight from [Vimeo](http://vimeo.com/user1690209) at [Welcome to Vim](http://vimeo.com/6999927) as the embedded video doesn't look all that great and at Vimeo there is a decent set of hyperlinks that let you index the video and fast-forward to the major topics.
 
-<object width="480" height="360">
+<object width="720" height="540">
     <param name="allowfullscreen" value="true" />
     <param name="allowscriptaccess" value="always" />
     <param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=6999927&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" />
-    <embed src="http://vimeo.com/moogaloop.swf?clip_id=6999927&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="480" height="360"></embed>
+    <embed src="http://vimeo.com/moogaloop.swf?clip_id=6999927&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="720" height="540"></embed>
 </object>
 
 What we'll cover
@@ -45,11 +45,11 @@ Basic Movement (Screencast 1)
 
 See it straight from [Vimeo](http://vimeo.com/user1690209) at [Basic Movement (Screencast 1)](http://vimeo.com/6170479).
 
-<object width="400" height="300">
+<object width="720" height="540">
     <param name="allowfullscreen" value="true" />
     <param name="allowscriptaccess" value="always" />
     <param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=6170479&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" />
-    <embed src="http://vimeo.com/moogaloop.swf?clip_id=6170479&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="300"></embed>
+    <embed src="http://vimeo.com/moogaloop.swf?clip_id=6170479&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="720" height="540"></embed>
 </object>
 
 What we'll cover
@@ -79,11 +79,11 @@ Basic Movement (Screencast 2)
 
 See it straight from [Vimeo](http://vimeo.com/user1690209) at [Basic Movement (Screencast 2)](http://vimeo.com/6185584).
 
-<object width="400" height="320">
+<object width="720" height="540">
     <param name="allowfullscreen" value="true" />
     <param name="allowscriptaccess" value="always" />
     <param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=6185584&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" />
-    <embed src="http://vimeo.com/moogaloop.swf?clip_id=6185584&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="320"></embed>
+    <embed src="http://vimeo.com/moogaloop.swf?clip_id=6185584&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="720" height="540"></embed>
 </object>
 
 What we'll cover
@@ -109,11 +109,11 @@ Basic Movement (Screencast 3)
 
 See it straight from [Vimeo](http://vimeo.com/user1690209) at [Basic Movement (Screencast 3)](http://vimeo.com/6216655).
 
-<object width="400" height="306">
+<object width="720" height="540">
     <param name="allowfullscreen" value="true" />
     <param name="allowscriptaccess" value="always" />
     <param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=6216655&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" />
-    <embed src="http://vimeo.com/moogaloop.swf?clip_id=6216655&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="306"></embed>
+    <embed src="http://vimeo.com/moogaloop.swf?clip_id=6216655&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="720" height="540"></embed>
 </object>
 
 What we'll cover
@@ -135,11 +135,11 @@ Basic Editing (Screencast 1)
 
 See it straight from [Vimeo](http://vimeo.com/user1690209) at [Basic Editing (Screencast 1)](http://vimeo.com/6329762).
 
-<object width="400" height="316">
+<object width="720" height="540">
     <param name="allowfullscreen" value="true" />
     <param name="allowscriptaccess" value="always" />
     <param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=6329762&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" />
-    <embed src="http://vimeo.com/moogaloop.swf?clip_id=6329762&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="316"></embed>
+    <embed src="http://vimeo.com/moogaloop.swf?clip_id=6329762&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="720" height="540"></embed>
 </object>
 
 What we'll cover
@@ -169,11 +169,11 @@ Basic Editing (Screencast 2)
 
 See it straight from [Vimeo](http://vimeo.com/user1690209) at [Basic Editing (Screencast 2)](http://vimeo.com/6332848).
 
-<object width="400" height="316">
+<object width="720" height="540">
     <param name="allowfullscreen" value="true" />
     <param name="allowscriptaccess" value="always" />
     <param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=6332848&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" />
-    <embed src="http://vimeo.com/moogaloop.swf?clip_id=6332848&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="316"></embed>
+    <embed src="http://vimeo.com/moogaloop.swf?clip_id=6332848&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="720" height="540"></embed>
 </object>
 
 What we'll cover
@@ -195,11 +195,11 @@ Working with Many Files (Screencast 1)
 
 See it straight from [Vimeo](http://vimeo.com/user1690209) at [Working with Many Files (Screencast 1)](http://vimeo.com/6306508).
 
-<object width="400" height="306">
+<object width="720" height="540">
     <param name="allowfullscreen" value="true" />
     <param name="allowscriptaccess" value="always" />
     <param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=6306508&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" />
-    <embed src="http://vimeo.com/moogaloop.swf?clip_id=6306508&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="306"></embed>
+    <embed src="http://vimeo.com/moogaloop.swf?clip_id=6306508&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="720" height="540"></embed>
 </object>
 
 What we'll cover
@@ -219,11 +219,11 @@ Working with Many Files (Screencast 2)
 
 See it straight from [Vimeo](http://vimeo.com/user1690209) at [Working with Many Files (Screencast 2)](http://vimeo.com/6307101).
 
-<object width="400" height="306">
+<object width="720" height="540">
     <param name="allowfullscreen" value="true" />
     <param name="allowscriptaccess" value="always" />
     <param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=6307101&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" />
-    <embed src="http://vimeo.com/moogaloop.swf?clip_id=6307101&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="306"></embed>
+    <embed src="http://vimeo.com/moogaloop.swf?clip_id=6307101&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="720" height="540"></embed>
 </object>
 
 What we'll cover
@@ -243,11 +243,11 @@ Working with Many Files (Screencast 3)
 
 See it straight from [Vimeo](http://vimeo.com/user1690209) at [Working with Many Files (Screencast 3)](http://vimeo.com/6342264).
 
-<object width="400" height="360">
+<object width="720" height="540">
     <param name="allowfullscreen" value="true" />
     <param name="allowscriptaccess" value="always" />
     <param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=6342264&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" />
-    <embed src="http://vimeo.com/moogaloop.swf?clip_id=6342264&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="360"></embed>
+    <embed src="http://vimeo.com/moogaloop.swf?clip_id=6342264&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="720" height="540"></embed>
 </object>
 
 What we'll cover
@@ -277,11 +277,11 @@ How to use the Help System
 
 See it straight from [Vimeo](http://vimeo.com/user1690209) at [How to use the Help System](http://vimeo.com/7035132).
 
-<object width="480" height="360">
+<object width="720" height="540">
     <param name="allowfullscreen" value="true" />
     <param name="allowscriptaccess" value="always" />
     <param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=7035132&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" />
-    <embed src="http://vimeo.com/moogaloop.swf?clip_id=7035132&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="480" height="360"></embed>
+    <embed src="http://vimeo.com/moogaloop.swf?clip_id=7035132&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="720" height="540"></embed>
 </object>
 
 What we'll cover

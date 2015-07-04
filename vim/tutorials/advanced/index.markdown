@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vim Advanced Tutorial Videos
+title: Vim Advanced Videos
 ---
 ### Video Tutorials for the Advanced Vimmer
 
@@ -19,11 +19,11 @@ The Vim Expression Register
 
 See it straight from [Vimeo](http://vimeo.com/user1690209) at [The Vim Expression Register](http://vimeo.com/4446843).
 
-<object width="480" height="388">
+<object width="720" height="540">
     <param name="allowfullscreen" value="true" />
     <param name="allowscriptaccess" value="always" />
     <param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=4446843&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" />
-    <embed src="http://vimeo.com/moogaloop.swf?clip_id=4446843&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="480" height="388"></embed>
+    <embed src="http://vimeo.com/moogaloop.swf?clip_id=4446843&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="720" height="540"></embed>
 </object>
 
 What we'll cover
@@ -41,11 +41,11 @@ Vim Autocommands
 
 See it straight from [Vimeo](http://vimeo.com/user1690209) at [Vim Autocommands](http://vimeo.com/4454614).
 
-<object width="480" height="372">
+<object width="720" height="540">
     <param name="allowfullscreen" value="true" />
     <param name="allowscriptaccess" value="always" />
     <param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=4454614&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" />
-    <embed src="http://vimeo.com/moogaloop.swf?clip_id=4454614&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="480" height="372"></embed>
+    <embed src="http://vimeo.com/moogaloop.swf?clip_id=4454614&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="720" height="540"></embed>
 </object>
 
 What we'll cover
@@ -65,11 +65,11 @@ Find Command and the Path
 
 See it straight from [Vimeo](http://vimeo.com/user1690209) at [Find Command and the Path](http://vimeo.com/6154082).
 
-<object width="480" height="384">
+<object width="720" height="540">
     <param name="allowfullscreen" value="true" />
     <param name="allowscriptaccess" value="always" />
     <param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=6154082&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" />
-    <embed src="http://vimeo.com/moogaloop.swf?clip_id=6154082&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="480" height="384"></embed>
+    <embed src="http://vimeo.com/moogaloop.swf?clip_id=6154082&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="720" height="540"></embed>
 </object>
 
 What we'll cover
@@ -91,7 +91,7 @@ Globals, Commands and Functions
 
 See it straight from [Vimeo](http://vimeo.com/user1690209) at [Globals, Commands and Functions](http://vimeo.com/15443936).
 
-<iframe src="http://player.vimeo.com/video/15443936?byline=0&amp;portrait=0" width="640" height="480" frameborder="0"></iframe>
+<iframe src="http://player.vimeo.com/video/15443936?byline=0&amp;portrait=0" width="720" height="540" frameborder="0"></iframe>
 
 What we'll cover
 ----------------

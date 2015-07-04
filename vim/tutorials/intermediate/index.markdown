@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vim Intermediate Tutorial Videos
+title: Vim Intermediate Videos
 ---
 ### Video Tutorials for the Intermediate Vimmer
 
@@ -22,11 +22,11 @@ The vimrc File and Vim Runtime Directories
 
 See it straight from [Vimeo](http://vimeo.com/user1690209) at [The vimrc File and Vim Runtime Directories](http://vimeo.com/7096383).
 
-<object width="480" height="352">
+<object width="720" height="540">
     <param name="allowfullscreen" value="true" />
     <param name="allowscriptaccess" value="always" />
     <param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=7096383&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" />
-    <embed src="http://vimeo.com/moogaloop.swf?clip_id=7096383&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="480" height="352"></embed>
+    <embed src="http://vimeo.com/moogaloop.swf?clip_id=7096383&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="720" height="540"></embed>
 </object>
 
 What we'll cover
@@ -48,11 +48,11 @@ Vim Modes Introduction
 
 See it straight from [Vimeo](http://vimeo.com/user1690209) at [Vim Modes Introduction](http://vimeo.com/7129986).
 
-<object width="480" height="360">
+<object width="720" height="540">
     <param name="allowfullscreen" value="true" />
     <param name="allowscriptaccess" value="always" />
     <param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=7129986&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" />
-    <embed src="http://vimeo.com/moogaloop.swf?clip_id=7129986&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="480" height="360"></embed>
+    <embed src="http://vimeo.com/moogaloop.swf?clip_id=7129986&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="720" height="540"></embed>
 </object>
 
 What we'll cover
@@ -75,11 +75,11 @@ Insert Mode
 
 See it straight from [Vimeo](http://vimeo.com/user1690209) at [Insert Mode](http://vimeo.com/7133419).
 
-<object width="480" height="360">
+<object width="720" height="540">
     <param name="allowfullscreen" value="true" />
     <param name="allowscriptaccess" value="always" />
     <param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=7133419&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" />
-    <embed src="http://vimeo.com/moogaloop.swf?clip_id=7133419&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="480" height="360"></embed>
+    <embed src="http://vimeo.com/moogaloop.swf?clip_id=7133419&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="720" height="540"></embed>
 </object>
 
 What we'll cover
@@ -108,11 +108,11 @@ One Vim... Just One
 
 See it straight from [Vimeo](http://vimeo.com/user1690209) at [One Vim... Just One](http://vimeo.com/4446112).
 
-<object width="480" height="388">
+<object width="720" height="540">
     <param name="allowfullscreen" value="true" />
     <param name="allowscriptaccess" value="always" />
     <param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=4446112&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" />
-    <embed src="http://vimeo.com/moogaloop.swf?clip_id=4446112&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="480" height="388"></embed>
+    <embed src="http://vimeo.com/moogaloop.swf?clip_id=4446112&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="720" height="540"></embed>
 </object>
 
 What we'll cover
@@ -130,11 +130,11 @@ Destruction is Good
 
 See it straight from [Vimeo](http://vimeo.com/user1690209) at [Destruction is Good](http://vimeo.com/6110008).
 
-<object width="480" height="421">
+<object width="720" height="540">
     <param name="allowfullscreen" value="true" />
     <param name="allowscriptaccess" value="always" />
     <param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=6110008&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" />
-    <embed src="http://vimeo.com/moogaloop.swf?clip_id=6110008&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="480" height="421"></embed>
+    <embed src="http://vimeo.com/moogaloop.swf?clip_id=6110008&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="720" height="540"></embed>
 </object>
 
 What we'll cover
@@ -154,11 +154,11 @@ Using a Vim Macro to Edit Many Files
 
 See it straight from [Vimeo](http://vimeo.com/user1690209) at [Using a Vim Macro to Edit Many Files](http://vimeo.com/4456458).
 
-<object width="480" height="372">
+<object width="720" height="540">
     <param name="allowfullscreen" value="true" />
     <param name="allowscriptaccess" value="always" />
     <param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=4456458&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" />
-    <embed src="http://vimeo.com/moogaloop.swf?clip_id=4456458&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="480" height="372"></embed>
+    <embed src="http://vimeo.com/moogaloop.swf?clip_id=4456458&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="720" height="540"></embed>
 </object>
 
 What we'll cover
@@ -183,11 +183,11 @@ Vim Macros and Global Commands (one)
 
 See it straight from [Vimeo](http://vimeo.com/user1690209) at [Vim Macros and Global Commands (one)](http://vimeo.com/4448635).
 
-<object width="480" height="388">
+<object width="720" height="540">
     <param name="allowfullscreen" value="true" />
     <param name="allowscriptaccess" value="always" />
     <param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=4448635&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" />
-    <embed src="http://vimeo.com/moogaloop.swf?clip_id=4448635&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="480" height="388"></embed>
+    <embed src="http://vimeo.com/moogaloop.swf?clip_id=4448635&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="720" height="540"></embed>
 </object>
 
 What we'll cover

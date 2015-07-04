@@ -1,21 +1,58 @@
 ---
 layout: default
 ---
-<article class="post">
 
-	{% if page.external-url %}
-		<h1>
-			<a href="{{ page.external-url }}">{{ page.title }}</a> 
-			<a class="anchor" href="{{ page.url }}"><i class="icon-anchor"></i></a>
-		</h1>
-	{% else %}
-		<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
-	{% endif %}
+<!-- Post Header -->
+<header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-1 col-md-10 col-md-offset-1">
+                <div class="post-heading">
+                    <h1>{{ page.title }}</h1>
+                    {% if page.subtitle %}
+                    <h2 class="subheading">{{ page.subtitle }}</h2>
+                    {% endif %}
+                    <span class="meta">Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
 
-  {% include widgets/postTagList.html %}		
+<!-- Post Content -->
+<article>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-1 col-md-10 col-md-offset-1">
+              {% if page.tags.size > 0 %}
+              <p class="post-meta-tags">
+              <b>Tags:</b>
+                {% for tag in page.tags %}
+                <a href=/tags/index.html#{{ tag }}>{{ tag }}</a>{% unless forloop.last %}, {% endunless %}
+                {% endfor %}
+              </p>
+              {% endif %}
 
-	<div class="post-content">{{ content }}</div>
+                {{ content }}
 
-	<p class="meta">Posted on <span class="postdate">{{ page.date | date: "%b %d, %Y" }}</span></p>
+                <hr>
 
+                <ul class="pager">
+                    {% if page.previous.url %}
+                    <li class="previous">
+                        <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
+                    </li>
+                    {% endif %}
+                    {% if page.next.url %}
+                    <li class="next">
+                        <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Next Post &rarr;</a>
+                    </li>
+                    {% endif %}
+                </ul>
+
+            </div>
+        </div>
+    </div>
 </article>
+
+<hr>

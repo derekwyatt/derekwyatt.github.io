@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vim Plugin Showcase
+title: Vim Plugins
 ---
 ### Plugins Make Vim Go 'Round
 
