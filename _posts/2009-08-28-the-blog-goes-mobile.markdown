@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Blog Goes Mobile
+header-img: img/old-bridge.png
 tags:
 - blog
 ---

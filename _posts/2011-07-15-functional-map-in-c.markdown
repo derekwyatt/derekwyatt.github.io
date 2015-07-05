@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Functional "map" in C++
+header-img: img/orion-nebula-space-galaxy.png
+abstract: After playing with Scala for a while, I got interested in how to manipulate C++11 into providing me the ability to map over a container type, transforming it as I go.
 tags:
 - functional
 - c++

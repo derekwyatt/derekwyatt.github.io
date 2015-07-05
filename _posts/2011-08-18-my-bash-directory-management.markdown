@@ -1,6 +1,8 @@
 ---
 layout: post
 title: My BASH directory management
+header-img: img/compact-discs.png
+abstract: Walking around a directory structure is a serious pain in the ass, unless you've got a way to navigate the history of that traversal with ease.
 tags:
 - shell
 - unix

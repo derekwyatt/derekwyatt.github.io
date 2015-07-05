@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Working with Many Files (Screencast 3) is up
+header-img: img/dubrovnik-croatia.png
 tags:
 - vim
 ---

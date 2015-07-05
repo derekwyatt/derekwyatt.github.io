@@ -1,6 +1,8 @@
 ---
 layout: post
 title: The Absolute Bare Minimum
+header-img: img/compact-discs.png
+abstract: If you want to get started with Vim, you should start with the bare minimum configuration that you need.  This is it.
 tags:
 - vim
 ---

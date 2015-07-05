@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Haskell 'sequence' Over Functions - Explained
+header-img: img/compact-discs.png
+abstract: A look into how Haskell's Applicative's work. We'll dissect it, along with how it works with the 'sequence' operator.
 tags:
 - haskell
 - functional

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Formatting Code by Block
+header-img: img/compact-discs.png
+abstract: How we can use Vim to nicely indent C++ code using the 'block' text object
 tags:
 - c++
 - vim

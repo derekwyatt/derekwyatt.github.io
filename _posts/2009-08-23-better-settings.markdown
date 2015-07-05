@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "\"Better\" Settings"
+header-img: img/old-bridge-with-green-field-in-front-of-it.png
+abstract: Just a few more examples of some settings we have in Vim to make basic operations a bit easier.
 tags:
 - vim
 ---

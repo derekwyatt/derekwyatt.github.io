@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The vimrc Work has Begun
+header-img: img/orion-nebula-space-galaxy.png
 tags:
 - vim
 ---

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: The EigenHarp - Holy Friggin' Hell!
+header-img: img/old-bridge.png
+abstract: The EigenHarp MIDI controller is just the coolest thing.
 tags:
 - blog
 ---

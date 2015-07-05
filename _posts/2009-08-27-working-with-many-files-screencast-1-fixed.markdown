@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Working with Many Files (Screencast 1) FIXED
+header-img: img/female-sitting-in-library.png
 tags:
 - vim
 ---

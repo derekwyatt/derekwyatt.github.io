@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Protodef 0.9.2 released
+header-img: img/dubrovnik-croatia.png
 tags:
 - plugins
 - vim

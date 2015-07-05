@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Using Scala Implicits to Implement a Messaging Protocol
+header-img: img/female-sitting-in-library.png
+abstract: This is a pretty neat use of Scala's implicits to pimp Akka's messaging system in order to add a lot of meta-protocol information about who's sending what, to whom they're sending it, and adding some more information along the way.
 tags:
 - scala
 - akka

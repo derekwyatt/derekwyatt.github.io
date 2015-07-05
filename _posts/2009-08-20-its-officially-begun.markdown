@@ -1,6 +1,7 @@
 ---
 layout: post
 title: It's officially begun...
+header-img: img/compact-discs.png
 tags:
 - vim
 ---

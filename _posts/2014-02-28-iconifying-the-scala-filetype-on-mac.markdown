@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Iconifying the Scala Filetype on Mac
+header-img: img/female-sitting-in-library.png
+abstract: Want to add some Scala icon bling to everything on your Mac? Here's how you do it.
 tags:
 - scala
 - vim
@@ -8,7 +10,7 @@ tags:
 ---
 I couldn't sleep last night, and for some reason I pictured the Mac Finder, showing me those generic icons for files that the mac simply doesn't know about.  You know what I mean:
 
-<img src="/images/generic_file_type.png" />
+<img class="unadorned" src="/images/generic_file_type.png" />
 
 I wanted things to look sexier, so I read [this post on SuperUser.com][1] and modified it a bit to fit better with [MacVim][2].  Here's what I did:
 
@@ -52,7 +54,7 @@ Log out and log back in (or whatever better hack you know how to do in order to 
 
 and this:
 
-<img src="/images/Scala_in_MacVim_Bar.png" class=unadorned />
+<img src="/images/Scala_in_MacVim_Bar.png" class="unadorned" />
 
 Yeah, it's a bit excessive, but hey... I really couldn't sleep.
 

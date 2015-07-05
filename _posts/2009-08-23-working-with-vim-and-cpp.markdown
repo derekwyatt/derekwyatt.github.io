@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Working with Vim and C++
+header-img: img/amsterdam-main-train-station.png
 tags:
 - c++
 - vim

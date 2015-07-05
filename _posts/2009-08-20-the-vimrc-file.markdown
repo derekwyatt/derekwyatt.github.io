@@ -1,6 +1,8 @@
 ---
 layout: post
 title: The vimrc File
+header-img: img/old-bridge.png
+abstract: What the vimrc file is for and how to get it going.
 tags:
 - vim
 ---

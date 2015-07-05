@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Scala Method Overloading and Default Argument Values
+header-img: img/old-bridge.png
+abstract: Using the magnet pattern to get around a limitation with Scala's overloading implementation.
 tag:
 - scala
 - implicits

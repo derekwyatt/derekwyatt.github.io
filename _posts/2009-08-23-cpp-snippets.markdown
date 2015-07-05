@@ -1,6 +1,8 @@
 ---
 layout: post
 title: C++ Snippets
+header-img: img/amsterdam-main-train-station.png
+abstract: Setting up some snippets for hacking away at C++.
 tags:
 - vim
 - c++

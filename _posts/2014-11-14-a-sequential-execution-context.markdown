@@ -1,6 +1,8 @@
 ---
 layout: post
 title: A Sequential Execution Context
+header-img: img/underground.png
+abstract: Scala's `ExecutionContext` is a much more powerful abstraction than you might think. This post covers how to use it to ensure sequential execution of work without muddying up your code whatsoever.
 tags:
 - scala
 ---

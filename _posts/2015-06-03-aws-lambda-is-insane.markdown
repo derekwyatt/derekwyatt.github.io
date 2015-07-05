@@ -1,6 +1,8 @@
 ---
 layout: post
 title: AWS Lambda is Insane!
+header-img: img/old-bridge.png
+abstract: Ah, the life of an AWS DevOps employee is a pain in the ass... but Lambda just made it a whole lot more awesome.
 tags:
 - aws
 ---
@@ -21,7 +23,7 @@ All I want to do (_all_ I want to do... jeez... think about it, man, this is hea
 
 We've already got the metrics being uploaded to [Cloudwatch][1], are being alerted and sent to [SNS][4], and [SNS][4] can already send those to various email addresses, but unfortunately there's no automatic support from [SNS][4] to [Slack][1].  We need to add this last bit of plumbing.
 
-<img width=300px src="/images/Product_to_Slack.png"/>
+<img width=400px src="/images/Product_to_Slack.png"/>
 
 The How
 -------

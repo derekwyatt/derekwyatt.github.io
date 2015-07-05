@@ -1,6 +1,7 @@
 ---
 layout: post
 title: MacVim Snapshot 49 Released
+header-img: img/old-bridge.png
 tags:
 - vim
 - mac

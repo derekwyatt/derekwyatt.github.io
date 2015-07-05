@@ -1,0 +1,12 @@
+#!/bin/bash
+
+imgs[0]=amsterdam-main-train-station.png
+imgs[1]=compact-discs.png
+imgs[2]=dubrovnik-croatia.png
+imgs[3]=female-sitting-in-library.png
+imgs[4]=old-bridge-with-green-field-in-front-of-it.png
+imgs[5]=old-bridge.png
+imgs[6]=orion-nebula-space-galaxy.png
+imgs[7]=underground.png
+
+echo ${imgs[$((RANDOM%8))]}

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Food Inc
+header-img: img/orion-nebula-space-galaxy.png
 tags:
 - blog
 ---

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Vim PDF Cheat Sheet
+header-img: img/old-bridge.png
+abstract: A link to the Vim cheat sheet that I found online recently.
 tags:
 - vim
 ---

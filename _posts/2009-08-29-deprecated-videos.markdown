@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Deprecated Videos
+header-img: img/compact-discs.png
 tags:
 - vim
 ---

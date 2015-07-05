@@ -1,6 +1,7 @@
 ---
 layout: post
 title: It's always touchier than you think...
+header-img: img/orion-nebula-space-galaxy.png
 tags:
 - c++
 - vim

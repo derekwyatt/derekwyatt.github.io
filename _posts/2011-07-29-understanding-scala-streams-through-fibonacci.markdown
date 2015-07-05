@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Understanding Scala Streams through Fibonacci
+header-img: img/old-bridge-with-green-field-in-front-of-it.png
+abstract: A functional Stream is a lazily computed data structure that can be hard to wrap your head around. I take a stab at explaining it while computing the Fibonacci series.
 tags:
 - functional
 - scala

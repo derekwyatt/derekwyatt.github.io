@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Silently Redirecting to the Vim Clipboard
+header-img: img/old-bridge.png
+abstract: How to redirect Vim messages to the clipboard.
 tags:
 - vim
 ---

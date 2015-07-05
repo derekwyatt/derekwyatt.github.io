@@ -1,6 +1,8 @@
 ---
 layout: post
 title: General C++ Settings
+header-img: img/orion-nebula-space-galaxy.png
+abstract: What you can do with Vim in order to code in C++ a little easier.
 tags:
 - c++
 - vim

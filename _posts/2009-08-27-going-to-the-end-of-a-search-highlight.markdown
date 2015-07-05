@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Going to the End of a Search Highlight
+header-img: img/amsterdam-main-train-station.png
+abstract: How to get to the end of the search highlight in Vim.
 tags:
 - vim
 ---

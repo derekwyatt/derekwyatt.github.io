@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ProtoDef and FSwitch updated (finally)
+header-img: img/old-bridge-with-green-field-in-front-of-it.png
 tags:
 - vim
 - plugins

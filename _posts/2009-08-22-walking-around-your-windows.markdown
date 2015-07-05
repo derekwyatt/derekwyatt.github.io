@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Walking Around Your Windows
+header-img: img/orion-nebula-space-galaxy.png
+abstract: Some mappings in Vim that help you wander around your windows.
 tags:
 - vim
 ---

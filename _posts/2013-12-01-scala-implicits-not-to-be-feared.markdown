@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Scala Implicits - Not to be Feared
+header-img: img/amsterdam-main-train-station.png
+abstract: Far too many people fear Scala's implicits, and that's a shame.  Don't fear them - have a look at this presentation and heave a sigh of relief.
 tags:
 - scala
 - presentations

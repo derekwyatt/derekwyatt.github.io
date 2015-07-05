@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Toggling and Shortening
+header-img: img/female-sitting-in-library.png
+abstract: An example of some mappings that I've got for toggling some settings in Vim
 tags:
 - vim
 ---

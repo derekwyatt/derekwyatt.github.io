@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Versioning your Vim configuration
+header-img: img/compact-discs.png
+abstract: How to version your Vim configuration with Perforce.
 tags:
 - vim
 ---

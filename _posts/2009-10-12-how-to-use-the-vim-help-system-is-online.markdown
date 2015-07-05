@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to use the Vim Help System is Online
+header-img: img/old-bridge-with-green-field-in-front-of-it.png
 tags:
 - vim
 ---

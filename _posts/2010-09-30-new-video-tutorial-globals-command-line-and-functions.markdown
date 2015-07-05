@@ -1,6 +1,7 @@
 ---
 layout: post
 title: New Video Tutorial - Globals, Command-Line and Functions
+header-img: img/compact-discs.png
 tags:
 - vim
 ---

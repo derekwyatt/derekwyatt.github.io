@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Added protodef and fswitch to GitHub
+header-img: img/dubrovnik-croatia.png
 tags:
 - vim
 - plugins

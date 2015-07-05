@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Monad posting updated
+header-img: img/old-bridge.png
 tags:
 - scala
 - functional

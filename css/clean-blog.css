@@ -47,13 +47,20 @@ img.avatar-img, img.book-img {
   padding: 0px;
   margin-left: 0px;
 }
+img.unadorned {
+  padding: 0px;
+  border: none;
+  border-radius: 0px;
+  background-color: #f0f0f0;
+}
 
 a img:hover,
 a img:focus {
   cursor: zoom-in;
 }
 blockquote {
-  color: #808080;
+  color: #000;
+  font-size: 1.3em;
   font-style: italic;
 }
 hr.small {
@@ -244,6 +251,12 @@ hr.small {
   margin: 0;
   font-weight: 300;
   margin-bottom: 10px;
+}
+.post-preview > .post-abstract {
+  color: #808080;
+  font-size: 18px;
+  margin-top: 0;
+  margin-bottom: 5px;
 }
 .post-preview > .post-meta {
   color: #808080;

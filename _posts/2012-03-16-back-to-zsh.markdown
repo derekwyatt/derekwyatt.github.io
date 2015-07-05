@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Back to ZSH
+header-img: img/compact-discs.png
 tags:
 - shell
 - unix

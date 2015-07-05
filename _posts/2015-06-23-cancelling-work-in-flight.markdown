@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Cancelling work in flight
-header-img: img/compact-discs.png
+header-img: img/old-bridge-with-green-field-in-front-of-it.png
+abstract: When pushing work at an Actor, there are many times when it might not even get started before the guy that asked for it completely loses interest. How do you make sure that you don't start work needlessly?
 tags:
 - scala
 - akka
@@ -36,7 +37,7 @@ I'm going to use the _passive_ approach because I like it better today. The _act
 
 I just don't wanna do that stuff, so I'm going to solve it the _passive_ way and use Actors.  It's gonna look something like this:
 
-<img src="/images/Work_Canceller.png" width=500px />
+<img src="/images/Work_Canceller.png" width=600px />
 
 The `Future[Result]` comes from the following method call, and is really the API that you're going to expose, forgetting all of the interesting complexity in that diagram.
 

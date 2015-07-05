@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Using Actors as Throwaway State
+header-img: img/compact-discs.png
+abstract: There are times when you need to assemble a bunch of work, or gather a bunch of state before moving things on to "the next stage". Since things can fail, you might need to restart or give up. How do you handle the information that's not-yet-complete? Throw Actors away!
 tags:
 - scala
 - akka
@@ -42,7 +44,7 @@ The biggest culprit in our software that causes the problem is the result of a q
 
 At the time of writing, [Akka Streams][4] was not capable of sending data across remoting so it was not a viable solution to the problem, and this is why I built my own.
 
-<img width=300px src="/images/Streams.png"/>
+<img width=500px src="/images/Streams.png"/>
 
 Effectively, that's it. You've got a `Query Endpoint`, which is where the `Consumer` is going to make the query, which is going to set up the `Producer`, which iterates over the data, sending each piece of the data to the `Consumer` adhering as well as it can to the specified quality of service.  The `Consumer` will `Ack` the messages when it can - it doesn't `Ack` each one individually, but only `Ack`s the highest thing it's seen.  This keeps the chatter down.
 

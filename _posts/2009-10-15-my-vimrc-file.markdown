@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My vimrc File
+header-img: img/dubrovnik-croatia.png
 tags:
 - vim
 ---
