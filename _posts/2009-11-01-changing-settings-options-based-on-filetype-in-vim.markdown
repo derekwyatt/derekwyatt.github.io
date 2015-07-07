@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Changing settings / options based on filetype in Vim
-header-img: img/old-bridge.png
+header-img: img/old-bridge.jpg
 abstract: How to change the operational feel of Vim based on the type of file you're editing.
 tags:
 - vim

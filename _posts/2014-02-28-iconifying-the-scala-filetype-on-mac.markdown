@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Iconifying the Scala Filetype on Mac
-header-img: img/female-sitting-in-library.png
+header-img: img/female-sitting-in-library.jpg
 abstract: Want to add some Scala icon bling to everything on your Mac? Here's how you do it.
 tags:
 - scala

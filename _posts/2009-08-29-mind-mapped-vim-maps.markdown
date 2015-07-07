@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mind Mapped Vim Maps
-header-img: img/underground.png
+header-img: img/underground.jpg
 tags:
 - vim
 ---

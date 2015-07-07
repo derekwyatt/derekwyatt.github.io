@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BoinxTV appears to have stabilized!
-header-img: img/orion-nebula-space-galaxy.png
+header-img: img/orion-nebula-space-galaxy.jpg
 tags:
 - blog
 ---

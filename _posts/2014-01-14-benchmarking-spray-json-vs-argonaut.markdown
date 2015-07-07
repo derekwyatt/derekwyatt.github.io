@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Benchmarking Spray Json vs. Argonaut
-header-img: img/compact-discs.png
+header-img: img/compact-discs.jpg
 abstract: Spray's Json parser vs. Argonaut's in a head-to-head battle to the death.
 tags:
 - scala

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "\"Welcome to Vim\" video is online"
-header-img: img/old-bridge-with-green-field-in-front-of-it.png
+header-img: img/old-bridge-with-green-field-in-front-of-it.jpg
 tags:
 - vim
 ---

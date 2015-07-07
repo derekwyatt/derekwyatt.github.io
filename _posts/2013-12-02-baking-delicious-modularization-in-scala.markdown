@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Baking Delicious Modularization in Scala
-header-img: img/orion-nebula-space-galaxy.png
+header-img: img/orion-nebula-space-galaxy.jpg
 abstract: How to wield the cake pattern in Scala.
 tags:
 - scala

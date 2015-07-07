@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Vim config is on GitHub
-header-img: img/amsterdam-main-train-station.png
+header-img: img/amsterdam-main-train-station.jpg
 tags:
 - vim
 ---

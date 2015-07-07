@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Using Actors as Throwaway State
-header-img: img/compact-discs.png
+header-img: img/compact-discs.jpg
 abstract: There are times when you need to assemble a bunch of work, or gather a bunch of state before moving things on to "the next stage". Since things can fail, you might need to restart or give up. How do you handle the information that's not-yet-complete? Throw Actors away!
 tags:
 - scala

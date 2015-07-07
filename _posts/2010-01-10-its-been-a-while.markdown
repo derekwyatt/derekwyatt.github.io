@@ -1,7 +1,7 @@
 ---
 layout: post
 title: It's been a while...
-header-img: img/female-sitting-in-library.png
+header-img: img/female-sitting-in-library.jpg
 tags:
 - vim
 - blog

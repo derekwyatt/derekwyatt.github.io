@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blogging straight from Vim
-header-img: img/old-bridge-with-green-field-in-front-of-it.png
+header-img: img/old-bridge-with-green-field-in-front-of-it.jpg
 tags:
 - vim
 - blog

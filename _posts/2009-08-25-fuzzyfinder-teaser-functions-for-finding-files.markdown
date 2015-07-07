@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FuzzyFinder Teaser Functions (for finding Files)
-header-img: img/dubrovnik-croatia.png
+header-img: img/dubrovnik-croatia.jpg
 tags:
 - vim
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New Vim Screencasts found at Lococast.Net
-header-img: img/compact-discs.png
+header-img: img/compact-discs.jpg
 tags:
 - vim
 ---

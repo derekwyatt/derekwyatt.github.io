@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The vimrc File and Vim Runtime Directories Video is Online
-header-img: img/underground.png
+header-img: img/underground.jpg
 tags:
 - vim
 ---

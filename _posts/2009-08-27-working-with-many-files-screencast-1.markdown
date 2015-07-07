@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Working with Many Files (Screencast 1)
-header-img: img/compact-discs.png
+header-img: img/compact-discs.jpg
 tags:
 - vim
 ---

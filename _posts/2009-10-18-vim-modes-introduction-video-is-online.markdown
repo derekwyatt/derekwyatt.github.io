@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vim Modes Introduction Video is Online
-header-img: img/underground.png
+header-img: img/underground.jpg
 tags:
 - vim
 ---

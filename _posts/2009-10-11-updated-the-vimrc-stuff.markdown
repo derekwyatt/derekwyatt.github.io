@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Updated the vimrc Stuff
-header-img: img/amsterdam-main-train-station.png
+header-img: img/amsterdam-main-train-station.jpg
 tags:
 - vim
 ---

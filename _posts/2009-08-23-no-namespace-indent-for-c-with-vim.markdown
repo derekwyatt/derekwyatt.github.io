@@ -1,7 +1,7 @@
 ---
 layout: post
 title: No <code>namespace</code> indent for C++ with Vim
-header-img: img/old-bridge-with-green-field-in-front-of-it.png
+header-img: img/old-bridge-with-green-field-in-front-of-it.jpg
 abstract: The stock C++ indent will indent namespaces, which I find annoying, so this will avoid that indent.
 tags:
 - c++

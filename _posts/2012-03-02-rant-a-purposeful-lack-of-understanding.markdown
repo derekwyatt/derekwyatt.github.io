@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rant - A Purposeful Lack of Understanding
-header-img: img/old-bridge.png
+header-img: img/old-bridge.jpg
 tags:
 - blog
 ---

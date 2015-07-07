@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Basic Editing 1 & 2 Updated
-header-img: img/old-bridge.png
+header-img: img/old-bridge.jpg
 tags:
 - vim
 ---

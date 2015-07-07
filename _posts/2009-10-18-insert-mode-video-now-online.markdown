@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Insert Mode Video now Online
-header-img: img/compact-discs.png
+header-img: img/compact-discs.jpg
 tags:
 - vim
 ---

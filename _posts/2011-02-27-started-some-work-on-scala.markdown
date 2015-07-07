@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Started some work on Scala
-header-img: img/amsterdam-main-train-station.png
+header-img: img/amsterdam-main-train-station.jpg
 tags:
 - scala
 ---

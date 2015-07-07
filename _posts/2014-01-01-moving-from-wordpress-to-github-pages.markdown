@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Moving from WordPress to Github Pages
-header-img: img/old-bridge.png
+header-img: img/old-bridge.jpg
 abstract: How I moved from WordPress to Github Pages, along with Jekyll and all the good stuff.
 tags:
 - blog

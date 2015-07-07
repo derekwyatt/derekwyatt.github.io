@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Post from the BlackBerry
-header-img: img/underground.png
+header-img: img/underground.jpg
 tags:
 - mobile
 ---

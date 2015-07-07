@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Shamelessness
-header-img: img/underground.png
+header-img: img/underground.jpg
 tags:
 - blog
 ---

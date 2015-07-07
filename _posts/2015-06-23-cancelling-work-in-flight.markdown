@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cancelling work in flight
-header-img: img/old-bridge-with-green-field-in-front-of-it.png
+header-img: img/old-bridge-with-green-field-in-front-of-it.jpg
 abstract: When pushing work at an Actor, there are many times when it might not even get started before the guy that asked for it completely loses interest. How do you make sure that you don't start work needlessly?
 tags:
 - scala

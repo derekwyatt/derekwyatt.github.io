@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Back to ZSH
-header-img: img/compact-discs.png
+header-img: img/compact-discs.jpg
 tags:
 - shell
 - unix

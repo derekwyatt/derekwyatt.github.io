@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Most Useful Code I've Written in Weeks
-header-img: img/orion-nebula-space-galaxy.png
+header-img: img/orion-nebula-space-galaxy.jpg
 abstract: SBT's automatic recompile when a file changes made me realize that I wanted that functionality with everything I do, and so I scripted it.
 tags:
 - shell

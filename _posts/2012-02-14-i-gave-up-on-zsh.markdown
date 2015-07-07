@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I gave up on Zsh
-header-img: img/underground.png
+header-img: img/underground.jpg
 tags:
 - shell
 - unix

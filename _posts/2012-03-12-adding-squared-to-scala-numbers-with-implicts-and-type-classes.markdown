@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Adding `squared` to Scala Numbers with Implicts and Type Classes
-header-img: img/female-sitting-in-library.png
+header-img: img/female-sitting-in-library.jpg
 abstract: A very simple look at how to pimp a method onto a class using Scala's implicits.
 tags:
 - scala

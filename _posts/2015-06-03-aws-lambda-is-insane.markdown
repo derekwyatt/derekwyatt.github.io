@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AWS Lambda is Insane!
-header-img: img/old-bridge.png
+header-img: img/old-bridge.jpg
 abstract: Ah, the life of an AWS DevOps employee is a pain in the ass... but Lambda just made it a whole lot more awesome.
 tags:
 - aws

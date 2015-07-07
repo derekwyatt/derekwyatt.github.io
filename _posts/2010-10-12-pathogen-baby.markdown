@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pathogen, baby!
-header-img: img/orion-nebula-space-galaxy.png
+header-img: img/orion-nebula-space-galaxy.jpg
 tags:
 - vim
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Coding Scala with Vim
-header-img: img/compact-discs.png
+header-img: img/compact-discs.jpg
 abstract: A video on how I code Scala with Vim, along with a lot of explanation as to how it gets done.
 tags:
 - vim

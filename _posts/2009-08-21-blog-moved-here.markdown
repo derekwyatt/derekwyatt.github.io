@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blog moved here...
-header-img: img/amsterdam-main-train-station.png
+header-img: img/amsterdam-main-train-station.jpg
 tags:
 - blog
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vim indent file for Scala has been updated
-header-img: img/orion-nebula-space-galaxy.png
+header-img: img/orion-nebula-space-galaxy.jpg
 tags:
 - scala
 - vim

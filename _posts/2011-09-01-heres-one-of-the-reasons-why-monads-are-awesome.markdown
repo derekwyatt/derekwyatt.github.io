@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Here's (one of the reasons) why Scala is awesome
-header-img: img/underground.png
+header-img: img/underground.jpg
 abstract: My first real experience with using a monad in a way that simplified the crap out of what it was that I was doing.
 tags:
 - scala

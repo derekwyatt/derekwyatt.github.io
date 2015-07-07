@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Next Vim Video is in the works... technical difficulties
-header-img: img/amsterdam-main-train-station.png
+header-img: img/amsterdam-main-train-station.jpg
 tags:
 - vim
 ---
