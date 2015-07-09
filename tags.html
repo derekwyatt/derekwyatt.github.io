@@ -3,7 +3,8 @@ layout: post
 title: Tags
 ---
 <!-- categories -->	
-{% for tag in site.tags %}
+{% assign sortedtags = site.tags | sort %}
+{% for tag in sortedtags %}
 <div class="box">
   <a name="{{ tag | first | cgi_escape }}"></a>
 	<h1>{{ tag | first }}</h1>
