@@ -11,7 +11,7 @@ I've been playing with [lightline][1] for [Vim][2] and wanted to write a custom 
 * The simplest way to get it is to just show it on the `statusline` (or equivalently in _lightline_) with `%b` and `%B`, as visible in the docs or in [this Vim Tips entry][3].
  * The problem is that I can't get the value into a Vim variable this way.
 * Another way is to simply yank the damn thing with something like `"zyl`, which will put the value in the `@z` register, as described [here][4].
- * If `virtualedit` is set to anything, then this will return a `space` for any mode in which `virtualedit` is active.
+ * If `virtualedit` is set to anything, then this will return a `space` if there is no character under the cursor, for any mode in which `virtualedit` is active.
  * What's more is that I may very well not want to run a `normal` command like this, especially in `visual` mode.
 * Another way is to do something like `let ch = getline('.')[col('.') - 1]`, which is also described [here][4].
  * This doesn't respect unicode characters because their length is "interesting".
