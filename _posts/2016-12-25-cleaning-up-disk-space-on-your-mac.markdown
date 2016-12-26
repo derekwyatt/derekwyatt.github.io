@@ -4,19 +4,20 @@ title: Cleaning up Disk Space on your Mac
 header-img: img/old-bridge.jpg
 abstract: How to use the terminal to find out where your disk space is going and how to clean it up
 tags:
-- unix,mac
+- unix
+- mac
 ---
-My nephew asked me (again) how to clean up disk space on his mac.  He tells me that he deletes files and empties the trash but nothing happens.  Clear he's either:
+My nephew asked me (again) how to clean up disk space on his mac.  He tells me that he deletes files and empties the trash but nothing happens.  Clearly he's either:
 
-a. Drunk
-b. Speaking through one of many different personalities that he posesses, none of which know what the other is doing
-c. Lying
+1. Drunk
+2. Speaking through one of many different personalities that he posesses, none of which know what the other is doing
+3. Lying
 
-There are a number of pages out there that will tell you how to [reclaim][1] [disk][2] [space][3] but the best tools to do this are good ol' unix tools that have been around for decades.  Incidentally, [Disk Inventory X][4] is a great too for visualizing what your disk usage looks like so you should download it, run it, and see what you've got.  But here, I'm going to show you what I do.
+There are a number of pages out there that will tell you how to [reclaim][1] [disk][2] [space][3] but the best tools to do this are good ol' unix tools that have been around for decades.  Incidentally, [Disk Inventory X][4] is also a great tool for visualizing what your disk usage looks like so you should download it, run it, and see what you've got.  But here, I'm going to show you what I do.
 
 First, you'll need a command line shell, so go to the `Finder` and launch `Applications -> Utilities -> Terminal`.  From there you'll want to do this:
 
-```
+``` bash
 # Change to your home directory
 > cd ~
 
@@ -56,9 +57,9 @@ Filesystem     1K-blocks      Used Available Use% Mounted on
 195036888	Guitar
 ```
 
-That's the most important command. You run `du` in in summary mode, where all of the numbers are in _kilobytes_ and then you sort them numerically, where the larger numbers go to the bottom.  I do a lot of work with my guitar and I have a lot of data associated with it so it's the biggest by far.  You can see the rest above there.  Let's take the `Music` directory and see what's in there:
+That's the most important command. You run `du` in in summary mode, where all of the numbers are in _kilobytes_ and then you sort them numerically, where the larger numbers go to the bottom.  I do a lot of work with my guitar and I have a lot of data associated with it so it's the biggest by far.  Let's take the `Music` directory and see what's in there:
 
-```
+``` bash
 # Head into the Music diredtory and rerun the du command there
 > cd Music
 > du -sk * | sort -n
