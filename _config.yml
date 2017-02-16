@@ -10,8 +10,6 @@ github_username: derekwyatt
 linkedin_username: derekqwyatt
 
 # Build settings
-markdown: redcarpet
-highlighter: pygments
+highlighter: rouge
 permalink: pretty
-paginate: 5
 exclude: ["Gemfile", "Gemfile.lock", "less", "README.md"]
