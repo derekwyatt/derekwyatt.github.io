@@ -5,20 +5,20 @@ header-img: img/old-bridge.jpg
 abstract: There are lots of ways to look at the cloud, but the key architectural view is that of managing complexity.
 tags:
 - cloud
-- aws
+- microservices
 ---
-_This isn't a rant; it's an architectural opinion piece wearing a special hat that it stole from another rant it met while at a party._
+_This isn't a rant; it's an architectural opinion piece wearing a special hat that it stole from another rant it met while at a party. Honestly, it's really supposed to be light hearted, so when you read it, smile. :D_
 
-## Buzzwords
+## On Buzzwords
 
-Buzzwords are terribly annoying, aren't they? It's not that they get overused by everyone that wants to be on the "cutting edge" of design or architecture, or the social sphere, or the latest business trend; it's that the words themselves tend to lose all meaning in very short order. The concepts that these buzzwords embody tend to be complex concepts, hard won discoveries after years of pain and heartache. But unfortunately, they tend to boil down to things like these:
+The field of software design and development is full of them. Literally. It's full. So y'all can stop it any time you're ready. It's not that they get overused by everyone that wants to be on the "cutting edge" of design or architecture; it's that the words themselves quickly lose all meaning in very short order. The concepts that these buzzwords embody tend to be complex, hard won discoveries after years of pain and heartache. I don't think people really set out to create a buzzword - they're trying to give voice to one of those hard won, difficult concepts - but unfortunately, they tend to boil down to things like these:
 
 * **Microservices**: A service. A process, or program with a REST interface. Just not big. You know, like the services we had 20 years ago, but smaller. More "single purpose". Kinda the same as before, but different in size.  Not so much of that largeness.
 * **The Cloud**: A bunch of computers, not here, that run programs we can use more conveniently. A place where you can create virtual machines easily. You know, to run your stuff.
 
-In other words, people use the terms with an understanding gained not from investigating their true meaning and definition, but guessing about that meaning based on some previous understanding (e.g. SOA) and the dictionary definition of word's parts.
+In other words, people use the terms with an understanding gained not from investigating their true meaning and definition, but guessing about that meaning based on some previous understanding (e.g. SOA) and the dictionary definition of the word's parts. I have literally heard someone say the word _"microservice"_ and then describe the thing they want to build as the complete opposite of what a microservice wants to be. However, nobody seems to call it out because the service being described is "small". It has no autonomy, it doesn't represent a business capability whatsoever, it's tightly coupled to a ton of different things, but it's "small", so it seems to pass the test of a _"microservice"_. Personally, I blame [Twitter][1]. If you can't say it in 140 characters, does it need to be said?
 
-In fact, these two particular buzzwords are deeply intertwined. **Microservices** were not really practical until the **The Cloud** not only came into being, but matured to the level that we find today. Indeed the architectural paradigm of the **Microservice** was not fully conceptualized until the mature **Cloud** enabled that mode of thinking. In turn, **The Cloud** owes its importance and its immense utility to the existence and requirements of **Microservices**.
+In fact, these two particular buzzwords are deeply intertwined. [**Microservices**][2] were not really practical until the [**The Cloud**][3] not only came into being, but matured to the level that we find today. Indeed the architectural paradigm of the [**Microservice**][5] was not fully conceptualized until the mature [**Cloud**][4] enabled that mode of thinking. In turn, [**The Cloud**][6] owes its importance and its immense utility to the existence and requirements of [**Microservices**][7].
 
 The above buzzword definitions are really what a lot of people understand these two fundamentally transformative architectural concepts to be, and I think that's the point. These two concepts are _architectural concepts_ but they live in the space of marketing and have made their way into common speech. We can't expect marketing professionals and targets of marketing professionals to understand or care about the architectural principles behind them.
 
@@ -72,7 +72,7 @@ It's also easy to recognize that there are secure ways of presenting information
 
 <img src="/images/ComplexGetPasswordsShifted.png" />
 
-So why is this better and how has the complexity been moved?  In short, this:
+We can see that we've shifted the complexity further into the cloud, _which is designed to handle that complexity_.  But why is this better and how has the complexity been moved?  In short, this:
 
 <img src="/images/DevelopmentAndOpsSeparation.png" />
 
@@ -85,4 +85,16 @@ So why is this better and how has the complexity been moved?  In short, this:
   - But because it's not dependend upon by _N_ services directly, the fallout from such an event need not be catastrophic.
 3. The human knowledge and responsibility are now further compartmentalized and can now be largely maintained by "the cloud", also known as _DevOps_.
   - Ideally the securing of information and access to that information should be the sole responsibility of DevOps and the software should be designed to maximize that autonomy.
+4. We no longer have _N_ distinct pieces of code that need to be maintained with that knowledge spread across _N_ teams.
+  - The need to get information from the credentials service has not changed.
+  - The credentials service itself has not changed.
+  - What has changed is that only _one team_ is responsible for interacting with the credentials service, no matter how many services use the information stored within it.
+  - As we add services, the complexity of this solution does not change.
 
+  [1]: http://twitter.com/derekwyatt "Twitter"
+  [2]: http://shop.oreilly.com/product/0636920033158.do "Building Microservices, by Sam Newman"
+  [3]: https://www.infoq.com/cloud-computing/ "InfoQ Cloud Computing"
+  [4]: http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf "The definition of the cloud from NIST. Seriously. NIST took the time to do this. Way to go NIST!"
+  [5]: http://microservices.io/patterns/microservices.html "Yet another definition of the Microservice"
+  [6]: http://www.forbes.com/sites/joemckendrick/2012/01/25/how-cloud-redefines-our-most-important-business-relationships/#556380742c65 "Forbes is talking about the cloud too... Forbes. WTF?"
+  [7]: http://blog.smartbear.com/microservices/why-you-cant-talk-about-microservices-without-mentioning-netflix/ "It's true. If you mention 'Microservices', you're probably going to have to say 'Netflix' before your next breath."
