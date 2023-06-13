@@ -18,13 +18,13 @@ Searching the web for some tips on how to transfer the stuffs from my broken pho
 
 ## Proof
 
-![[monitor.png]]
+<img src="/images/monitor.png"/>
 
 See? That's my phone, but on an external monitor instead. Neat huh?
 
 ## The hookup
 
-![[full_layout.png]]
+<img src="/images/full_layout.png"/>
 
 Fortunately, the Samsung Galaxy S9+ is pretty smart about recognizing various bits of equipment on its USB-C interface (which does nothing to diminish my vitriolic hatred directed at Samsung, _charging $300 for a piece of glass_, so it can still suck a bag of eggs). If you have a USB-C flinkdenhoogle (I don't know the "official" name for the StarTech thing) and you can power it, then you should be _good to go_<sup>TM</sup>.
 
@@ -36,7 +36,7 @@ You connect the flinkdenhoogle to the phone's USB-C input, then connect the HDMI
 
 Damn right you do...
 
-![[closeup.png]]
+<img src="/images/closeup.png"/>
 
 I got ya covered.
 
